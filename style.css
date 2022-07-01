@@ -1,0 +1,28 @@
+#timer{
+    margin-left:1140px;
+    font-weight: bold;
+    margin-top: 70px;
+}
+#score{
+    margin-right: 1400px;
+    font-weight: bold;
+    margin-bottom:300px;
+}
+body{
+    text-align: center;
+    background-color: rgb(17, 151, 151);
+}
+#sketch4{
+    font-size: larger;
+    font-weight: bold;
+}
+#confidence{
+    font-size: larger;
+    font-weight: bold;
+}
+canvas{
+    border-radius: 20px;
+    border:15px solid maroon;
+    box-shadow:5px 5px 39px white;
+    background-color: grey;
+}
